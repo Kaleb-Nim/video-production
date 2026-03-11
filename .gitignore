@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Node / Bun
+node_modules/
+bun.lockb
+
+# Environment
+.env
+.env.*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Temp audio files
+*.wav
+*.mp3.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# UV
+.python-version
