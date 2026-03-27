@@ -1,0 +1,226 @@
+[
+  {
+    "text": " Oh,",
+    "startMs": 0,
+    "endMs": 420,
+    "timestampMs": 210,
+    "confidence": 0.8477
+  },
+  {
+    "text": " and",
+    "startMs": 620,
+    "endMs": 740,
+    "timestampMs": 680,
+    "confidence": 0.9873
+  },
+  {
+    "text": " the",
+    "startMs": 740,
+    "endMs": 860,
+    "timestampMs": 800,
+    "confidence": 0.9868
+  },
+  {
+    "text": " idea?",
+    "startMs": 860,
+    "endMs": 1200,
+    "timestampMs": 1030,
+    "confidence": 0.9927
+  },
+  {
+    "text": " I",
+    "startMs": 1440,
+    "endMs": 1780,
+    "timestampMs": 1610,
+    "confidence": 0.9922
+  },
+  {
+    "text": " threw",
+    "startMs": 1780,
+    "endMs": 1980,
+    "timestampMs": 1880,
+    "confidence": 0.9888
+  },
+  {
+    "text": " the",
+    "startMs": 1980,
+    "endMs": 2120,
+    "timestampMs": 2050,
+    "confidence": 0.9819
+  },
+  {
+    "text": " problem",
+    "startMs": 2120,
+    "endMs": 2340,
+    "timestampMs": 2230,
+    "confidence": 0.4729
+  },
+  {
+    "text": " statement",
+    "startMs": 2340,
+    "endMs": 2700,
+    "timestampMs": 2520,
+    "confidence": 0.9785
+  },
+  {
+    "text": " into",
+    "startMs": 2700,
+    "endMs": 3040,
+    "timestampMs": 2870,
+    "confidence": 0.9819
+  },
+  {
+    "text": " clock",
+    "startMs": 3040,
+    "endMs": 3300,
+    "timestampMs": 3170,
+    "confidence": 0.4963
+  },
+  {
+    "text": " code,",
+    "startMs": 3300,
+    "endMs": 3660,
+    "timestampMs": 3480,
+    "confidence": 0.9707
+  },
+  {
+    "text": " got",
+    "startMs": 3800,
+    "endMs": 4180,
+    "timestampMs": 3990,
+    "confidence": 0.9893
+  },
+  {
+    "text": " five",
+    "startMs": 4180,
+    "endMs": 4420,
+    "timestampMs": 4300,
+    "confidence": 0.6343
+  },
+  {
+    "text": " ideas,",
+    "startMs": 4420,
+    "endMs": 4900,
+    "timestampMs": 4660,
+    "confidence": 0.9971
+  },
+  {
+    "text": " threw",
+    "startMs": 5320,
+    "endMs": 5900,
+    "timestampMs": 5610,
+    "confidence": 0.9902
+  },
+  {
+    "text": " them",
+    "startMs": 5900,
+    "endMs": 6160,
+    "timestampMs": 6030,
+    "confidence": 0.9941
+  },
+  {
+    "text": " all",
+    "startMs": 6160,
+    "endMs": 6340,
+    "timestampMs": 6250,
+    "confidence": 0.9927
+  },
+  {
+    "text": " away,",
+    "startMs": 6340,
+    "endMs": 6660,
+    "timestampMs": 6500,
+    "confidence": 0.9897
+  },
+  {
+    "text": " asked",
+    "startMs": 7160,
+    "endMs": 7440,
+    "timestampMs": 7300,
+    "confidence": 0.9756
+  },
+  {
+    "text": " it",
+    "startMs": 7440,
+    "endMs": 7520,
+    "timestampMs": 7480,
+    "confidence": 0.9785
+  },
+  {
+    "text": " to",
+    "startMs": 7520,
+    "endMs": 7660,
+    "timestampMs": 7590,
+    "confidence": 0.9971
+  },
+  {
+    "text": " think",
+    "startMs": 7660,
+    "endMs": 7920,
+    "timestampMs": 7790,
+    "confidence": 0.9873
+  },
+  {
+    "text": " harder.",
+    "startMs": 7920,
+    "endMs": 8280,
+    "timestampMs": 8100,
+    "confidence": 0.998
+  },
+  {
+    "text": " Well,",
+    "startMs": 8680,
+    "endMs": 9180,
+    "timestampMs": 8930,
+    "confidence": 0.8794
+  },
+  {
+    "text": " the",
+    "startMs": 9480,
+    "endMs": 9560,
+    "timestampMs": 9520,
+    "confidence": 0.9966
+  },
+  {
+    "text": " judges",
+    "startMs": 9560,
+    "endMs": 9780,
+    "timestampMs": 9670,
+    "confidence": 0.9912
+  },
+  {
+    "text": " found",
+    "startMs": 9780,
+    "endMs": 10120,
+    "timestampMs": 9950,
+    "confidence": 0.9976
+  },
+  {
+    "text": " our",
+    "startMs": 10120,
+    "endMs": 10320,
+    "timestampMs": 10220,
+    "confidence": 0.9868
+  },
+  {
+    "text": " idea",
+    "startMs": 10320,
+    "endMs": 10680,
+    "timestampMs": 10500,
+    "confidence": 0.9922
+  },
+  {
+    "text": " very",
+    "startMs": 10680,
+    "endMs": 11160,
+    "timestampMs": 10920,
+    "confidence": 0.9868
+  },
+  {
+    "text": " creative.",
+    "startMs": 11160,
+    "endMs": 11920,
+    "timestampMs": 11540,
+    "confidence": 0.981
+  }
+]
