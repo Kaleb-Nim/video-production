@@ -8,7 +8,9 @@
 - Desire: practical AI workflows that actually save time, not hype
 - Language: "does this actually work?", "show me a real use case," "I tried Copilot but..."
 
-# Persona 3: The Side Project Hustler
-- Pain: limited time outside work, wants to build and ship fast
-- Desire: weekend-viable projects, tools that compress build time
-- Language: "I built this in a weekend," "how do I ship this faster," "what's the stack"
+# Persona 3: The Hackathon Newbie
+- Pain: wants to join a hackathon but feels intimidated, no prior experience, doesn't know what to build or how teams work
+- Desire: a clear, no-BS breakdown of how to show up, contribute, and actually finish a project at their first hackathon
+- Language: "do I need to know how to code?", "what do I even build?", "I don't want to slow my team down"
+- Demographics: students, career-switchers, early-career devs, self-taught learners
+- Content hooks: "your first hackathon in 60 seconds," "things I wish I knew before my first hackathon," "zero tech background? you can still win"

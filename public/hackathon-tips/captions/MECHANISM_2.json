@@ -1,0 +1,226 @@
+[
+  {
+    "text": " Sounds",
+    "startMs": 0,
+    "endMs": 680,
+    "timestampMs": 340,
+    "confidence": 0.7241
+  },
+  {
+    "text": " crazy",
+    "startMs": 680,
+    "endMs": 1040,
+    "timestampMs": 860,
+    "confidence": 0.9917
+  },
+  {
+    "text": " right?",
+    "startMs": 1040,
+    "endMs": 1300,
+    "timestampMs": 1170,
+    "confidence": 0.7295
+  },
+  {
+    "text": " But",
+    "startMs": 1660,
+    "endMs": 1740,
+    "timestampMs": 1700,
+    "confidence": 0.9336
+  },
+  {
+    "text": " this",
+    "startMs": 1740,
+    "endMs": 1920,
+    "timestampMs": 1830,
+    "confidence": 0.8813
+  },
+  {
+    "text": " did",
+    "startMs": 1920,
+    "endMs": 2120,
+    "timestampMs": 2020,
+    "confidence": 0.9868
+  },
+  {
+    "text": " two",
+    "startMs": 2120,
+    "endMs": 2320,
+    "timestampMs": 2220,
+    "confidence": 0.8975
+  },
+  {
+    "text": " things.",
+    "startMs": 2320,
+    "endMs": 2680,
+    "timestampMs": 2500,
+    "confidence": 0.9951
+  },
+  {
+    "text": " It",
+    "startMs": 3040,
+    "endMs": 3360,
+    "timestampMs": 3200,
+    "confidence": 0.9766
+  },
+  {
+    "text": " forced",
+    "startMs": 3360,
+    "endMs": 3700,
+    "timestampMs": 3530,
+    "confidence": 0.9917
+  },
+  {
+    "text": " us",
+    "startMs": 3700,
+    "endMs": 3880,
+    "timestampMs": 3790,
+    "confidence": 0.9976
+  },
+  {
+    "text": " to",
+    "startMs": 3880,
+    "endMs": 4019,
+    "timestampMs": 3949,
+    "confidence": 0.9917
+  },
+  {
+    "text": " actually",
+    "startMs": 4019,
+    "endMs": 4360,
+    "timestampMs": 4189,
+    "confidence": 0.9858
+  },
+  {
+    "text": " agree",
+    "startMs": 4360,
+    "endMs": 4760,
+    "timestampMs": 4560,
+    "confidence": 0.9951
+  },
+  {
+    "text": " on",
+    "startMs": 4760,
+    "endMs": 5040,
+    "timestampMs": 4900,
+    "confidence": 0.9932
+  },
+  {
+    "text": " one",
+    "startMs": 5040,
+    "endMs": 5460,
+    "timestampMs": 5250,
+    "confidence": 0.8169
+  },
+  {
+    "text": " core",
+    "startMs": 5460,
+    "endMs": 5900,
+    "timestampMs": 5680,
+    "confidence": 0.9609
+  },
+  {
+    "text": " feature.",
+    "startMs": 5900,
+    "endMs": 6240,
+    "timestampMs": 6070,
+    "confidence": 0.9893
+  },
+  {
+    "text": " And",
+    "startMs": 6520,
+    "endMs": 6860,
+    "timestampMs": 6690,
+    "confidence": 0.9282
+  },
+  {
+    "text": " everyone",
+    "startMs": 6860,
+    "endMs": 7220,
+    "timestampMs": 7040,
+    "confidence": 0.9902
+  },
+  {
+    "text": " actually",
+    "startMs": 7220,
+    "endMs": 7580,
+    "timestampMs": 7400,
+    "confidence": 0.9873
+  },
+  {
+    "text": " understood",
+    "startMs": 7580,
+    "endMs": 8119,
+    "timestampMs": 7849,
+    "confidence": 0.9971
+  },
+  {
+    "text": " what",
+    "startMs": 8119,
+    "endMs": 8600,
+    "timestampMs": 8359,
+    "confidence": 0.9849
+  },
+  {
+    "text": " was",
+    "startMs": 8600,
+    "endMs": 8980,
+    "timestampMs": 8790,
+    "confidence": 0.9922
+  },
+  {
+    "text": " going",
+    "startMs": 8980,
+    "endMs": 9120,
+    "timestampMs": 9050,
+    "confidence": 0.9971
+  },
+  {
+    "text": " to",
+    "startMs": 9120,
+    "endMs": 9260,
+    "timestampMs": 9190,
+    "confidence": 0.9985
+  },
+  {
+    "text": " be",
+    "startMs": 9260,
+    "endMs": 9420,
+    "timestampMs": 9340,
+    "confidence": 0.9951
+  },
+  {
+    "text": " built",
+    "startMs": 9420,
+    "endMs": 9760,
+    "timestampMs": 9590,
+    "confidence": 0.9897
+  },
+  {
+    "text": " before",
+    "startMs": 9760,
+    "endMs": 10220,
+    "timestampMs": 9990,
+    "confidence": 0.916
+  },
+  {
+    "text": " we",
+    "startMs": 10220,
+    "endMs": 10540,
+    "timestampMs": 10380,
+    "confidence": 0.9917
+  },
+  {
+    "text": " built",
+    "startMs": 10540,
+    "endMs": 10740,
+    "timestampMs": 10640,
+    "confidence": 0.9917
+  },
+  {
+    "text": " it.",
+    "startMs": 10740,
+    "endMs": 10940,
+    "timestampMs": 10840,
+    "confidence": 0.9971
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "text": " Everyone",
+    "startMs": 0,
+    "endMs": 1080,
+    "timestampMs": 540,
+    "confidence": 0.8828
+  },
+  {
+    "text": " at",
+    "startMs": 1080,
+    "endMs": 1220,
+    "timestampMs": 1150,
+    "confidence": 0.979
+  },
+  {
+    "text": " the",
+    "startMs": 1220,
+    "endMs": 1300,
+    "timestampMs": 1260,
+    "confidence": 0.9229
+  },
+  {
+    "text": " hackathon",
+    "startMs": 1300,
+    "endMs": 1740,
+    "timestampMs": 1520,
+    "confidence": 0.8037
+  },
+  {
+    "text": " started",
+    "startMs": 1740,
+    "endMs": 2060,
+    "timestampMs": 1900,
+    "confidence": 0.9873
+  },
+  {
+    "text": " coding",
+    "startMs": 2060,
+    "endMs": 2420,
+    "timestampMs": 2240,
+    "confidence": 0.9966
+  },
+  {
+    "text": " immediately.",
+    "startMs": 2420,
+    "endMs": 2960,
+    "timestampMs": 2690,
+    "confidence": 0.979
+  },
+  {
+    "text": " We",
+    "startMs": 3280,
+    "endMs": 3520,
+    "timestampMs": 3400,
+    "confidence": 0.9653
+  },
+  {
+    "text": " opened",
+    "startMs": 3520,
+    "endMs": 4220,
+    "timestampMs": 3870,
+    "confidence": 0.9072
+  },
+  {
+    "text": " up",
+    "startMs": 4220,
+    "endMs": 4360,
+    "timestampMs": 4290,
+    "confidence": 0.9976
+  },
+  {
+    "text": " slides.",
+    "startMs": 4360,
+    "endMs": 4660,
+    "timestampMs": 4510,
+    "confidence": 0.895
+  }
+]

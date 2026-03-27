@@ -1,0 +1,261 @@
+[
+  {
+    "text": " Here's",
+    "startMs": 0,
+    "endMs": 800,
+    "timestampMs": 400,
+    "confidence": 0.9229
+  },
+  {
+    "text": " what",
+    "startMs": 800,
+    "endMs": 920,
+    "timestampMs": 860,
+    "confidence": 0.9956
+  },
+  {
+    "text": " happens",
+    "startMs": 920,
+    "endMs": 1320,
+    "timestampMs": 1120,
+    "confidence": 0.9897
+  },
+  {
+    "text": " at",
+    "startMs": 1320,
+    "endMs": 1540,
+    "timestampMs": 1430,
+    "confidence": 0.8857
+  },
+  {
+    "text": " every",
+    "startMs": 1540,
+    "endMs": 1740,
+    "timestampMs": 1640,
+    "confidence": 0.9028
+  },
+  {
+    "text": " hackathon.",
+    "startMs": 1740,
+    "endMs": 2160,
+    "timestampMs": 1950,
+    "confidence": 0.9492
+  },
+  {
+    "text": " Teams",
+    "startMs": 2400,
+    "endMs": 2840,
+    "timestampMs": 2620,
+    "confidence": 0.9766
+  },
+  {
+    "text": " start",
+    "startMs": 2840,
+    "endMs": 3220,
+    "timestampMs": 3030,
+    "confidence": 0.9878
+  },
+  {
+    "text": " building",
+    "startMs": 3220,
+    "endMs": 3460,
+    "timestampMs": 3340,
+    "confidence": 0.9897
+  },
+  {
+    "text": " immediately.",
+    "startMs": 3460,
+    "endMs": 3940,
+    "timestampMs": 3700,
+    "confidence": 0.9868
+  },
+  {
+    "text": " Everyone",
+    "startMs": 4480,
+    "endMs": 4960,
+    "timestampMs": 4720,
+    "confidence": 0.9893
+  },
+  {
+    "text": " wants",
+    "startMs": 4960,
+    "endMs": 5260,
+    "timestampMs": 5110,
+    "confidence": 0.9932
+  },
+  {
+    "text": " their",
+    "startMs": 5260,
+    "endMs": 5380,
+    "timestampMs": 5320,
+    "confidence": 0.9912
+  },
+  {
+    "text": " own",
+    "startMs": 5380,
+    "endMs": 5520,
+    "timestampMs": 5450,
+    "confidence": 0.9961
+  },
+  {
+    "text": " feature.",
+    "startMs": 5520,
+    "endMs": 5900,
+    "timestampMs": 5710,
+    "confidence": 0.9336
+  },
+  {
+    "text": " And",
+    "startMs": 6400,
+    "endMs": 6520,
+    "timestampMs": 6460,
+    "confidence": 0.9458
+  },
+  {
+    "text": " by",
+    "startMs": 6520,
+    "endMs": 6700,
+    "timestampMs": 6610,
+    "confidence": 0.9194
+  },
+  {
+    "text": " the",
+    "startMs": 6700,
+    "endMs": 6840,
+    "timestampMs": 6770,
+    "confidence": 0.9995
+  },
+  {
+    "text": " end,",
+    "startMs": 6840,
+    "endMs": 7040,
+    "timestampMs": 6940,
+    "confidence": 0.9995
+  },
+  {
+    "text": " you've",
+    "startMs": 7240,
+    "endMs": 7600,
+    "timestampMs": 7420,
+    "confidence": 0.7969
+  },
+  {
+    "text": " got",
+    "startMs": 7600,
+    "endMs": 7740,
+    "timestampMs": 7670,
+    "confidence": 0.9985
+  },
+  {
+    "text": " a",
+    "startMs": 7740,
+    "endMs": 7860,
+    "timestampMs": 7800,
+    "confidence": 0.98
+  },
+  {
+    "text": " Frankenstein",
+    "startMs": 7860,
+    "endMs": 8480,
+    "timestampMs": 8170,
+    "confidence": 0.9937
+  },
+  {
+    "text": " looking",
+    "startMs": 8480,
+    "endMs": 8700,
+    "timestampMs": 8590,
+    "confidence": 0.6782
+  },
+  {
+    "text": " app",
+    "startMs": 8700,
+    "endMs": 8980,
+    "timestampMs": 8840,
+    "confidence": 0.9312
+  },
+  {
+    "text": " with",
+    "startMs": 8980,
+    "endMs": 9200,
+    "timestampMs": 9090,
+    "confidence": 0.9771
+  },
+  {
+    "text": " 5",
+    "startMs": 9200,
+    "endMs": 9460,
+    "timestampMs": 9330,
+    "confidence": 0.3635
+  },
+  {
+    "text": " half",
+    "startMs": 9460,
+    "endMs": 9800,
+    "timestampMs": 9630,
+    "confidence": 0.9702
+  },
+  {
+    "text": "-finished",
+    "startMs": 9800,
+    "endMs": 10180,
+    "timestampMs": 9990,
+    "confidence": 0.8857
+  },
+  {
+    "text": " features",
+    "startMs": 10180,
+    "endMs": 10560,
+    "timestampMs": 10370,
+    "confidence": 0.9956
+  },
+  {
+    "text": " with",
+    "startMs": 10560,
+    "endMs": 11120,
+    "timestampMs": 10840,
+    "confidence": 0.7759
+  },
+  {
+    "text": " no",
+    "startMs": 11120,
+    "endMs": 11400,
+    "timestampMs": 11260,
+    "confidence": 0.9956
+  },
+  {
+    "text": " story",
+    "startMs": 11400,
+    "endMs": 11800,
+    "timestampMs": 11600,
+    "confidence": 0.9907
+  },
+  {
+    "text": " to",
+    "startMs": 11800,
+    "endMs": 12020,
+    "timestampMs": 11910,
+    "confidence": 0.998
+  },
+  {
+    "text": " tell",
+    "startMs": 12020,
+    "endMs": 12200,
+    "timestampMs": 12110,
+    "confidence": 0.998
+  },
+  {
+    "text": " the",
+    "startMs": 12200,
+    "endMs": 12340,
+    "timestampMs": 12270,
+    "confidence": 0.9814
+  },
+  {
+    "text": " judges.",
+    "startMs": 12340,
+    "endMs": 12600,
+    "timestampMs": 12470,
+    "confidence": 0.9956
+  }
+]

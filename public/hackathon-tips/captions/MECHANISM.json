@@ -1,0 +1,240 @@
+[
+  {
+    "text": " So",
+    "startMs": 0,
+    "endMs": 460,
+    "timestampMs": 230,
+    "confidence": 0.855
+  },
+  {
+    "text": " here's",
+    "startMs": 460,
+    "endMs": 720,
+    "timestampMs": 590,
+    "confidence": 0.9053
+  },
+  {
+    "text": " what",
+    "startMs": 720,
+    "endMs": 820,
+    "timestampMs": 770,
+    "confidence": 0.9746
+  },
+  {
+    "text": " we",
+    "startMs": 820,
+    "endMs": 940,
+    "timestampMs": 880,
+    "confidence": 0.9946
+  },
+  {
+    "text": " did",
+    "startMs": 940,
+    "endMs": 1080,
+    "timestampMs": 1010,
+    "confidence": 0.9854
+  },
+  {
+    "text": " instead.",
+    "startMs": 1080,
+    "endMs": 1420,
+    "timestampMs": 1250,
+    "confidence": 0.978
+  },
+  {
+    "text": " The",
+    "startMs": 1620,
+    "endMs": 1800,
+    "timestampMs": 1710,
+    "confidence": 0.9521
+  },
+  {
+    "text": " first",
+    "startMs": 1800,
+    "endMs": 2040,
+    "timestampMs": 1920,
+    "confidence": 0.9946
+  },
+  {
+    "text": " four",
+    "startMs": 2040,
+    "endMs": 2300,
+    "timestampMs": 2170,
+    "confidence": 0.8018
+  },
+  {
+    "text": " hours,",
+    "startMs": 2300,
+    "endMs": 2660,
+    "timestampMs": 2480,
+    "confidence": 0.9995
+  },
+  {
+    "text": " no",
+    "startMs": 2900,
+    "endMs": 3060,
+    "timestampMs": 2980,
+    "confidence": 0.9956
+  },
+  {
+    "text": " one",
+    "startMs": 3060,
+    "endMs": 3280,
+    "timestampMs": 3170,
+    "confidence": 0.9893
+  },
+  {
+    "text": " touched",
+    "startMs": 3280,
+    "endMs": 3600,
+    "timestampMs": 3440,
+    "confidence": 0.998
+  },
+  {
+    "text": " a",
+    "startMs": 3600,
+    "endMs": 3840,
+    "timestampMs": 3720,
+    "confidence": 0.9985
+  },
+  {
+    "text": " single",
+    "startMs": 3840,
+    "endMs": 4160,
+    "timestampMs": 4000,
+    "confidence": 0.999
+  },
+  {
+    "text": " line",
+    "startMs": 4160,
+    "endMs": 4320,
+    "timestampMs": 4240,
+    "confidence": 0.9995
+  },
+  {
+    "text": " of",
+    "startMs": 4320,
+    "endMs": 4460,
+    "timestampMs": 4390,
+    "confidence": 0.9985
+  },
+  {
+    "text": " code.",
+    "startMs": 4460,
+    "endMs": 4720,
+    "timestampMs": 4590,
+    "confidence": 0.9995
+  },
+  {
+    "text": " All",
+    "startMs": 4940,
+    "endMs": 5420,
+    "timestampMs": 5180,
+    "confidence": 0.9976
+  },
+  {
+    "text": " four",
+    "startMs": 5420,
+    "endMs": 5680,
+    "timestampMs": 5550,
+    "confidence": 0.9521
+  },
+  {
+    "text": " of",
+    "startMs": 5680,
+    "endMs": 5880,
+    "timestampMs": 5780,
+    "confidence": 0.9995
+  },
+  {
+    "text": " us",
+    "startMs": 5880,
+    "endMs": 6060,
+    "timestampMs": 5970,
+    "confidence": 0.9995
+  },
+  {
+    "text": " worked",
+    "startMs": 6060,
+    "endMs": 6360,
+    "timestampMs": 6210,
+    "confidence": 0.9805
+  },
+  {
+    "text": " on",
+    "startMs": 6360,
+    "endMs": 6580,
+    "timestampMs": 6470,
+    "confidence": 0.9995
+  },
+  {
+    "text": " the",
+    "startMs": 6580,
+    "endMs": 6740,
+    "timestampMs": 6660,
+    "confidence": 0.9976
+  },
+  {
+    "text": " pitch,",
+    "startMs": 6740,
+    "endMs": 7060,
+    "timestampMs": 6900,
+    "confidence": 0.9507
+  },
+  {
+    "text": " the",
+    "startMs": 7340,
+    "endMs": 7420,
+    "timestampMs": 7380,
+    "confidence": 0.9976
+  },
+  {
+    "text": " slides,",
+    "startMs": 7420,
+    "endMs": 7820,
+    "timestampMs": 7620,
+    "confidence": 0.9829
+  },
+  {
+    "text": " the",
+    "startMs": 8160,
+    "endMs": 8300,
+    "timestampMs": 8230,
+    "confidence": 0.9995
+  },
+  {
+    "text": " script,",
+    "startMs": 8300,
+    "endMs": 8640,
+    "timestampMs": 8470,
+    "confidence": 0.9937
+  },
+  {
+    "text": " and",
+    "startMs": 8780,
+    "endMs": 9160,
+    "timestampMs": 8970,
+    "confidence": 0.9985
+  },
+  {
+    "text": " the",
+    "startMs": 9160,
+    "endMs": 9280,
+    "timestampMs": 9220,
+    "confidence": 0.9995
+  },
+  {
+    "text": " demo",
+    "startMs": 9280,
+    "endMs": 9520,
+    "timestampMs": 9400,
+    "confidence": 0.9976
+  },
+  {
+    "text": " flow.",
+    "startMs": 9520,
+    "endMs": 9740,
+    "timestampMs": 9630,
+    "confidence": 0.9961
+  }
+]
